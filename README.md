@@ -1,12 +1,13 @@
-# Programação Orientada a Objetos (2024/2025)
+# Programação Orientada a Objetos (Spotify Clone) 
 
 
+### 📊 Nota Final
+- 17 Valores
 
 ## 📦 Requisitos
 
 - Java 17 
 - Gradle 
-- Unix/Linux ou WSL (necessário para executar o script `runProgram.sh`)
 
 ## 🚀 Como correr o projeto
 
